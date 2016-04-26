@@ -40,6 +40,8 @@ Why write a package?
 ========================================================
 
 - Saw an interview with Romain Francois from useR 2014.
+- Link to video:
+  - https://www.youtube.com/watch?v=AuYZZGbPKZU
 - If you could go back in time, what would you tell yourself?
 - Write more packages!
 
@@ -59,6 +61,11 @@ Good free resource to start!
 <center>
 ![altText](./accSDAPres-figure/cover.png)
 </center>
+
+Link to Hadley's book
+========================================================
+http://r-pkgs.had.co.nz/
+
 
 So what am I really going to talk about?
 ========================================================
